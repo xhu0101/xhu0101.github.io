@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Univeristy of British Columbia</a>. 2035 Main Mall, Vancouver, BC, Canada, V6T 2E5.
 
 profile:
   align: right
