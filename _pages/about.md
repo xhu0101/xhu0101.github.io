@@ -20,11 +20,6 @@ announcements:
   enabled: false # includes a list of news items
   scrollable: false # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: false
-  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a Ph.D. candidate in Quantitative Marketing at the Sauder School of Business, University of British Columbia. My research lies in the intersection of health marketing, innovation and methodological development. 
