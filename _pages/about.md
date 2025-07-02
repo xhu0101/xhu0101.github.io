@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Univeristy of British Columbia. 2035 Main Mall, Vancouver, BC, Canada, V6T 2E5.
+subtitle: <a href='#'>University of British Columbia</a>. 2035 Main Mall, Vancouver, BC, Canada, V6T 2E5.
 
 profile:
   align: right
@@ -13,7 +13,7 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
-selected_papers: # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -22,9 +22,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  enabled: false
+  scrollable: false # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. candidate in Quantitative Marketing at the Sauder School of Business, University of British Columbia. My research lies in the intersection of health marketing, innovation and methodological development. 
 
+I am a Ph.D. candidate in Quantitative Marketing at the Sauder School of Business, University of British Columbia. My research lies in the intersection of health marketing, innovation and methodological development. 
