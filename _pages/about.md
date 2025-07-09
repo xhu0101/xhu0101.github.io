@@ -25,3 +25,5 @@ My research lies at the intersection of health marketing, innovation, and method
 Looking ahead, I aim to produce rigorous, policy-relevant findings by pursuing pressing substantive questions and advancing methodology when existing tools fall short. Through this dual focus, I strive to make meaningful contributions to both academic research and real-world decision-making.
 
 Outside of research, I enjoy being in nature, including kayaking, paddleboarding, hiking, biking, and learning to ski.
+
+For my CV, please use this link [Download my CV](assets/pdf/cv.pdf). 
