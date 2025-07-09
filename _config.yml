@@ -188,6 +188,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/about_einstein.md
+  - _pages/cv.md
 keep_files:
   - CNAME
   - .nojekyll
