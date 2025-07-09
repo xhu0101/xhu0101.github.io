@@ -34,4 +34,4 @@ Looking ahead, I aim to produce rigorous, policy-relevant findings by pursuing p
 
 Outside of research, I enjoy being in nature, including kayaking, paddle-boarding, hiking, biking, and learning to ski.
 
-For my CV,  please use this link [**CV**](assets/pdf/cv.pdf). 
+For more information,  please use this link to my [**CV**](assets/pdf/cv.pdf). 
