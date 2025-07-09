@@ -6,7 +6,7 @@ subtitle: <a href='#'>University of British Columbia</a>. 2035 Main Mall, Vancou
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_5651.jpg
   image_circular: false # crops the image to make it circular
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
