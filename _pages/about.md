@@ -9,8 +9,8 @@ profile:
   image: IMG_5651.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:xixi.hu@sauder.ubc.ca">your.email@example.com</a></p>
-    <p><a href="assets/pdf/cv.pdf" target="_blank" rel="noopener noreferrer">Download my CV</a></p>
+    <p><a href="mailto:xixi.hu@sauder.ubc.ca">xixi.hu@sauder.ubc.ca</a></p>
+    <p><a href="assets/pdf/cv.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a></p>
 
 selected_papers: false# includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -22,7 +22,6 @@ announcements:
 latest_posts:
   enabled: false
   scrollable: false# adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I am a Ph.D. candidate in Quantitative Marketing at the Sauder School of Business, University of British Columbia. I am on the 2025-2026 job market. 
@@ -33,4 +32,4 @@ Looking ahead, I aim to produce rigorous, policy-relevant findings by pursuing p
 
 Outside of research, I enjoy being in nature, including kayaking, paddleboarding, hiking, biking, and learning to ski.
 
-For my CV,  please use this link [CV](assets/pdf/cv.pdf). 
+For my CV,  please use this link [**CV**](assets/pdf/cv.pdf). 
