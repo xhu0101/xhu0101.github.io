@@ -24,9 +24,7 @@ latest_posts:
   scrollable: false# adds a vertical scroll bar if there are more than 3 new posts items
 ---
 
-I am a Ph.D. candidate in Quantitative Marketing at the Sauder School of Business, University of British Columbia. I am on the 2025-2026 job market. 
-
-My research lies at the intersection of health marketing, innovation, and methodological development. 
+I am a Ph.D. candidate in Quantitative Marketing at the Sauder School of Business, University of British Columbia. My research lies at the intersection of **health marketing, innovation, and methodological development**. 
 
 I examine how public health crises can spur pharmaceutical innovation and explore behavioral dynamics in healthcare markets, such as how physicians’ preferences influence patient compliance. 
 
@@ -36,4 +34,4 @@ Looking ahead, I aim to produce rigorous, policy-relevant findings by pursuing p
 
 Outside of research, I enjoy being in nature, including kayaking, paddle-boarding, hiking, biking, and learning to ski.
 
-For more information,  please use this link to my [**CV**](assets/pdf/cv.pdf). 
+I am on the 2025-2026 job market. For more information, please see my CV [**here**](assets/pdf/cv.pdf). 
