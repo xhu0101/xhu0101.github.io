@@ -1,13 +1,18 @@
+
+
 ---
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of British Columbia</a>. 2035 Main Mall, Vancouver, BC, Canada, V6T 2E5.
+subtitle: <a href='#'>Sauder School of Business</a>. University of British Columbia, Vancouver, BC, Canada, V6T 2E5.
 
 profile:
   align: right
   image: IMG_5651.jpg
   image_circular: false # crops the image to make it circular
+    more_info: >
+    <p>xix.hu@sauder.ubc.ca</p>
+    <p>[CV](assets/pdf/cv.pdf) </p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -18,7 +23,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-I am a Ph.D. candidate in Quantitative Marketing at the Sauder School of Business, University of British Columbia. I am on the 2025 job market. 
+I am a Ph.D. candidate in Quantitative Marketing at the Sauder School of Business, University of British Columbia. I am on the 2025-2026 job market. 
 
 My research lies at the intersection of health marketing, innovation, and methodological development. I examine how public health crises can spur pharmaceutical innovation and explore behavioral dynamics in healthcare markets, such as how physicians’ preferences influence patient compliance. On the methodological front, I tackle key challenges in causal inference posed by complex correlation structures, developing instrument-free approaches for endogeneity correction. I apply these methods directly to my substantive work, enabling more credible and robust insights.
 
@@ -26,4 +31,4 @@ Looking ahead, I aim to produce rigorous, policy-relevant findings by pursuing p
 
 Outside of research, I enjoy being in nature, including kayaking, paddleboarding, hiking, biking, and learning to ski.
 
-For my CV, please use this link [Download my CV](assets/pdf/cv.pdf). 
+For my CV, please use this link [CV](assets/pdf/cv.pdf). 
