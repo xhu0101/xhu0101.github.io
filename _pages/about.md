@@ -28,7 +28,9 @@ I am a Ph.D. candidate in Quantitative Marketing at the Sauder School of Busines
 
 My research lies at the intersection of health marketing, innovation, and methodological development. 
 
-I examine how public health crises can spur pharmaceutical innovation and explore behavioral dynamics in healthcare markets, such as how physicians’ preferences influence patient compliance. On the methodological front, I tackle key challenges in causal inference posed by complex correlation structures, developing instrument-free approaches for endogeneity correction. I apply these methods directly to my substantive work, enabling more credible and robust insights.
+I examine how public health crises can spur pharmaceutical innovation and explore behavioral dynamics in healthcare markets, such as how physicians’ preferences influence patient compliance. 
+
+On the methodological front, I tackle key challenges in causal inference, developing instrument-free approaches for endogeneity correction. I apply these methods directly to my substantive work, enabling more credible and robust insights.
 
 Looking ahead, I aim to produce rigorous, policy-relevant findings by pursuing pressing substantive questions and advancing methodology when existing tools fall short. Through this dual focus, I strive to make meaningful contributions to both academic research and real-world decision-making.
 
