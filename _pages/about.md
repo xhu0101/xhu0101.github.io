@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Sauder School of Business</a>, University of British Columbia, Vancouver, Canada
+subtitle:
 
 profile:
   align: right
