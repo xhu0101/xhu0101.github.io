@@ -10,7 +10,7 @@ profile:
   align: right
   image: IMG_5651.jpg
   image_circular: false # crops the image to make it circular
-    more_info: >
+    more_info: 
     <p>xix.hu@sauder.ubc.ca</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
