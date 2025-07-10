@@ -9,7 +9,7 @@ profile:
   image: IMG_5736.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:xixi.hu@sauder.ubc.ca">xixi.hu@sauder.ubc.ca</a></p>
+    #<p><a href="mailto:xixi.hu@sauder.ubc.ca">xixi.hu@sauder.ubc.ca</a></p>
    #<p><a href="assets/pdf/cv.pdf" target="_blank" rel="noopener noreferrer">curriculum vitae</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -34,4 +34,4 @@ Looking ahead, I aim to produce rigorous, policy-relevant findings by pursuing p
 
 Outside of research, I enjoy being in nature, including kayaking, paddle-boarding, hiking, biking, and learning to ski.
 
-I am on the 2025-2026 job market. For more information, please see my CV [**here**](assets/pdf/cv.pdf). 
+I am on the 2025-2026 job market. For more information, please see my CV [**here**](assets/pdf/cv.pdf) or contact me at <a href="mailto:xixi.hu@sauder.ubc.ca">xixi.hu@sauder.ubc.ca</a>. 
