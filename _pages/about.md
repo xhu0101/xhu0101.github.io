@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: IMG_5651.jpg
+  image: IMG_5736.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href="mailto:xixi.hu@sauder.ubc.ca">xixi.hu@sauder.ubc.ca</a></p>
