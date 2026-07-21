@@ -30,6 +30,4 @@ On the methodological front, I tackle key challenges in causal inference, develo
 
 Looking ahead, I aim to produce rigorous, policy-relevant findings by pursuing pressing substantive questions and advancing methodology when existing tools fall short. Through this dual focus, I strive to make meaningful contributions to both academic research and real-world decision-making.
 
-Outside of research, I enjoy being in nature, including kayaking, paddle-boarding, hiking, biking, and learning to ski.
-
 I am currently on the job market. For more information, please see my CV linked [**here**](assets/pdf/CV_2026.pdf) or contact me at <a href="mailto:xixi.hu@sauder.ubc.ca">xixi.hu@sauder.ubc.ca</a>. 
