@@ -32,4 +32,4 @@ Looking ahead, I aim to produce rigorous, policy-relevant findings by pursuing p
 
 Outside of research, I enjoy being in nature, including kayaking, paddle-boarding, hiking, biking, and learning to ski.
 
-I am currently on the job market. For more information, please see my CV linked [**here**](assets/pdf/cv.pdf) or contact me at <a href="mailto:xixi.hu@sauder.ubc.ca">xixi.hu@sauder.ubc.ca</a>. 
+I am currently on the job market. For more information, please see my CV linked [**here**](assets/pdf/CV_2026.pdf) or contact me at <a href="mailto:xixi.hu@sauder.ubc.ca">xixi.hu@sauder.ubc.ca</a>. 
